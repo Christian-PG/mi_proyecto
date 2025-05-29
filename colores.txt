@@ -4,4 +4,5 @@ Blanco
 NAYA
 
 Negro
+Azul
 Incoloro
